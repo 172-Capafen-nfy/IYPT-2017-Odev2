@@ -23,63 +23,35 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+
+Biz problem olarak International Young Physicists' Tournament 2018 yılının ikinci sorusu olan "Colour of Powder"ı seçtik. Çeşitli materyallerin toz haline geldiğinde ortaya çıkan durumlarda renk değişikliği gözlemlendiğini biliyoruz. Biz de bu yüzden materyallerin öğütülme derecelerine göre verilen tepkideki renklerin nasıl etkilendiğini gözlemleyeceğiz. 
+     Bu proje aslında kromizm ve mekakromizm ile alakalı bir sorun. Kromizm, maddenin çeşitli uyarıcılar sonucunda geri dönüşümlü ya da kalıcı olarak renk değişikliğine uğrama projesidir. Bunun ısıya,ışığa bağlı alt dalları vardır. Mekakromizm ise katı haldeki kimyasalların sürtünme ile öğütülme derecelerine göre stresle renk değiştirmeleridir. Bu tepkiler moleküler yapı değişiklikleri, yapısal yeniden düzenlemeler veya moleküller arası etkileşimlerin bozulmasından kaynaklanır. Mekanik krom materikler (anakaya), mekanik materyalin uygulanmasına tepki olarak bir "optik tepki" veren malzemeler, bu materyal sınıfının önemli bir alt grubunu temsil eder.
+     Mekanik zorlamaları, seçici ve güvenilir bir şekilde ifade edebilme özelliği, patlamadan yapısal sağlığa kadar uzanan alanlarda teknolojik uygulamalar için de yararlıdır.
+     Yansıtma oranındaki değişiklikler genellikle tanımlanan nanoyapıların mekanik manipülasyonların ve buna bağlı fotonik etkilerin sonucudur. Japonya'da Hokkaido Üniversitesinde bir bilim adamı ekibi kırk sekiz altın atomu içeren kırk sekiz organik bileşik; uyarılma üzerine mavi, yeşil, sarı ve turuncu gibi değişen renkler yayan yirmi sekizinin mekakromik olduğu ortaya çıkan altın(I)izosiyanit kompleksleri sentezledi.
+     Yazar Hajime Ito araştırdığımız konu ve Japonya'daki bilim adamı ekibinin bulgusu için "Bununla bir sensör geliştirildiğinde hücresel hareketler ve benzeri mekanizmaların tanımlanmasında katkıda bulunacaktır." diye görüşünü belirtiyor.
+     Biz de içerisinde altın ya da krom olan materyalleri çekiç ya da öğütme aletiyle toz haline getirerek verdikleri tepkide renk değişimlerinin nasıl olduğunu gözlemleyeceğiz. Kullandığımız alete göre her bir çekiç vuruşuna bir birim ya da öğütme aletiyle her bir çevirmeyi bir birim olarak adlandıracağız. Öğütülme derecelerine göre renklerini sınıflandıracağız
+
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Önceki yazımızda belirttiğimiz gibi “Colour of Powder” deneyimizin amacı belirli elementler içeren kayaçları ufaladığımızda verdikleri tepkiler ve renk değişim tepkisi yani kromizim ve mekakromizm   Normalde bu gibi dıştan etkilere cisim çeşitli tepkiler verebilir. Biz verdiği renk değişimlerini incelemek için kendimizce bir yönerge planlamıştık ve buna bağlı ilerledik. 
+
+Daha önce Hakkoido Üniversitesinde yaptığı araştırmaları da inceledik ve Au (Altın) içeren 48 organik bileşiğe ufalama, ezme gibi yöntemler uyguladığımızda rengi değişmiş ve yirmi sekizinin mekakromik olduğu ortaya çıkam alton(I)izosiyanit kompleksleri sentezlemişti. 
+
+Altın içeren kayacın bulunması zor olduğu için farklı tür kayaçlarla bu deneyi yapacağız ve renk değişimi oluyor mu olmuyor mu gözlemleyeceğiz. İncelediğimiz ve okuduğumuz diğer hipotezlerden yola çıkarak her öğütme hareketimize katsayı vericez ve bunarı not alarak raporunu sunucağız.
 # Materyal ve Yöntem (Experimental Setup)
+Öncelikle deneyi yaptığımız yeri ve nasıl yapacağımızı açıklayalım. 
+Bu deneyden beklentimiz biz öğütme derecesini artırdıkça renk değişimi olup olmayacağını görmek 
+    Renk değişimlerinin olmasını gözlemlememiz için belirli bir derecede öğütülmeleri ve belli elementler içermeleri gerekmektedir. Biz bu derecelere nfy birim adını verelim. Koyduğumuz fotoğraflarda öğütülmüş ve bitmiş halleri var bu yüzden her birini ne kadar (kaç nfy birim) öğüttümüzü yapılış kısmında açıklayacağız. 
+      Çeşitli kayaçlar toplayıp bunları deneyi yaptığımız yerde birleştirdik. Küçük keskin bir bıçak zor da olsa işimizi gördü. Bıçakla her iki vuruşa bir “nfy” dedik ve  bu derecelerini değiştirerek doğru sonuca ulaşmayı bekliyoruz.
+Hedefimiz mekakromizime göre renk değişikliklerini gözlemlemek ve stres parametrelerini görmek. 
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
+.
 
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
+Kayaçları belli “nfy”lere göre öğüttüğümüzde maalesef hiçbir renk değişimine rastlamadık. Bir dahaki yapacağımız deneyde hedefimiz belirli elementleri sınıflandırarak bunları içeren kayaçları yine farklı “nfy”lerde öğütücez. Böylece renk değişimini gözlemleyip fotoğtaflarıyla makalemizde bulunduracağız. 
 
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+
+
+
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
